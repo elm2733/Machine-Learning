@@ -1,3 +1,3 @@
 # Machine-Learning
 
-This is a repository containing code that I have used in my ML class at UT Austin. 
+This is a repository containing ML code I have written. 
